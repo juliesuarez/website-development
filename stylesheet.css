@@ -1,0 +1,23 @@
+.love {
+    color: brown;
+    font-size: larger;
+}
+#uganda {
+    color: blue;
+    font-weight: bold;
+}
+body {
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1,h2,h3 {
+    color: magenta;
+}
+#perfect {
+    border-style: outset;
+    border-color: yellow;
+    padding: 5px; ;
+}
+#P1 {
+    border-style: dotted;
+}

@@ -1,0 +1,25 @@
+body {
+    font-family: fantasy;
+    color: rgb(100, 14, 23);
+}
+li {
+    list-style: none;
+    float:left;
+}
+.header {
+    background-color: antiquewhite;
+    height: 90px;
+}
+.header-logo {
+    font-size: 80px;
+    color: aqua;
+    float:left;
+}
+.main {
+    background-color: blue;
+    height: 600px;
+}
+.footer {
+    background-color: black;
+    height:90px
+}
