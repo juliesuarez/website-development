@@ -1,0 +1,10 @@
+.alert-primary {
+    background-color: blue;
+    font-size: larger;
+    font-style: italic;
+    forced-color-adjust: red;
+}
+.secondary {
+    font-style: italic;
+    color: brown;
+}
