@@ -1,0 +1,19 @@
+.HEADER {
+    background-color: blue;
+}
+.FOOTER {
+    background-color: yellow;
+}
+.MAIN {
+    background-color: aqua;
+}
+h1 {
+    background-color: blue;
+}
+.ph {
+    height: 250px;
+    width: 250px;
+}
+li {
+    float: left;
+}
